@@ -1,0 +1,5 @@
+/Users/johnlarkin/Desktop/Coding_Learning/Coursera/RustProgrammingLanguage/rust_programming_language/code_examples/scratch/class_code_notes/twelve_odds_and_ends/target/rls/debug/deps/twelve_phrases-d9ca54309f8785ef.rmeta: /Users/johnlarkin/Desktop/Coding_Learning/Coursera/RustProgrammingLanguage/rust_programming_language/code_examples/scratch/class_code_notes/twelve_phrases/src/lib.rs
+
+/Users/johnlarkin/Desktop/Coding_Learning/Coursera/RustProgrammingLanguage/rust_programming_language/code_examples/scratch/class_code_notes/twelve_odds_and_ends/target/rls/debug/deps/twelve_phrases-d9ca54309f8785ef.d: /Users/johnlarkin/Desktop/Coding_Learning/Coursera/RustProgrammingLanguage/rust_programming_language/code_examples/scratch/class_code_notes/twelve_phrases/src/lib.rs
+
+/Users/johnlarkin/Desktop/Coding_Learning/Coursera/RustProgrammingLanguage/rust_programming_language/code_examples/scratch/class_code_notes/twelve_phrases/src/lib.rs:

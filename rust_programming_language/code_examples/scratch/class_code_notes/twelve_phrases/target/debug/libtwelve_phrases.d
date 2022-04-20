@@ -1,0 +1,1 @@
+/Users/johnlarkin/Desktop/Coding_Learning/Coursera/RustProgrammingLanguage/rust_programming_language/code_examples/scratch/class_code_notes/twelve_phrases/target/debug/libtwelve_phrases.rlib: /Users/johnlarkin/Desktop/Coding_Learning/Coursera/RustProgrammingLanguage/rust_programming_language/code_examples/scratch/class_code_notes/twelve_phrases/src/lib.rs

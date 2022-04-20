@@ -1,0 +1,10 @@
+[package]
+name = "twelve_odds_and_ends"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.3.12"
+twelve_phrases = { path = "../twelve_phrases/" }
