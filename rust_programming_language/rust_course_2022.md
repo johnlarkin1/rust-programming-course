@@ -27,6 +27,6 @@ Class link: https://www.udemy.com/course/rust-lang/learn/
 
 ### 6. Numbers on the Computer
 
-## Section 3: Control Flow 
+## Section 3: Control Flow
 
-
+Going to switch over to have all comments and notes be in the code itself. 
